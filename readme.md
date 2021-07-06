@@ -5,6 +5,7 @@
 ## Olá, bem-vindo ao meu livro de receitas:cookie:
 
 * strogonoff de frango
+* Pave
 
 
 
